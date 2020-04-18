@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
-url: url
+name: cho young kwang
+email: youri1005y@hanmail.net
+url: https://choportfolio.netlify.app/
 description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
-permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+author: "조영광"
+title: "조영광의BlogFolio"
+permalink: ""
+baseurl: ""
 
 # social
 github:
-  username: username
+  username: Glory-m
 
 twitter:
-  username: username
+  username: ""
